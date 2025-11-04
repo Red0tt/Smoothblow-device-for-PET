@@ -14,11 +14,11 @@ Our team has selected the blow molding process as the subject of our study. We b
 [制造万物1021.pdf](https://github.com/user-attachments/files/23148710/1021.pdf)
 
 <p align="center">
-<img src="photo/figma讨论1.png" alt="ppt" width="500"/>
+<img src="photo/figma讨论1.png" alt="ppt" width="600"/>
 </p>
 
 <p align="center">
-<img src="photo/figma讨论2.png" alt="ppt" width="500"/>
+<img src="photo/figma讨论2.png" alt="ppt" width="600"/>
 </p>
 
 ### IMAGINE A NEW WAY
