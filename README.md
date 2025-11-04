@@ -6,7 +6,7 @@ Before we organized this concept, there were some initial attempts that introduc
 [前期尝试 Preliminary attempts](https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK-5-8_DEEPSICK/README.md)
 
 ## Preliminary attempts
-# MAKE A RESEARCH (BLOW MOLDING)
+### MAKE A RESEARCH (BLOW MOLDING)
 Our team has selected the blow molding process as the subject of our study. We briefly reviewed this section in our "bible" (Manufacturing Processes for Design Professionals). We used various search engines (including Bing and Xiaohongshu) to search for relevant information and found that, overall, there are three main processes: EBM, IBM, and ISBM. After discussing and studying together in the group and on Figma, we decided that each person would be responsible for explaining one part. The specific content can be found in the following PDF.
 
 我们的团队选择了吹塑工艺作为研究主题。我们在参考书《Manufacturing Processes for Design Professionals》中对这一部分进行了简要回顾。我们通过多个搜索引擎（包括 Bing 和小红书）查找了相关资料，发现总体上吹塑工艺主要分为三种类型：EBM、IBM 和 ISBM。经过在小组内以及 Figma 上的讨论与学习，我们决定由每个人分别负责讲解其中的一部分。具体内容见下方的 PDF。
@@ -14,7 +14,7 @@ Our team has selected the blow molding process as the subject of our study. We b
 [制造万物1021.pdf](https://github.com/user-attachments/files/23148710/1021.pdf)
 
 
-# IMAGINE A NEW WAY
+### IMAGINE A NEW WAY
 Later, the professor asked us to assume that this process is carried out in a Fablab, focusing on low-tech, small-scale modifications. At the beginning, we considered alternative solutions for every step of the blow molding process, such as using gel instead of PET, or a hairdryer instead of high-pressure air. The picture shows our detailed divergent thinking. 
 
 后来，老师让我们假设这一工艺是在 Fablab 中完成的，重点关注低技术、小规模的改进。起初，我们针对吹塑工艺的每一个步骤都进行了替代方案的思考，例如用凝胶代替 PET，或用吹风机代替高压空气。图片展示了我们详细的发散性思考过程。
@@ -96,12 +96,7 @@ We also made a poster for our design.
 </p>
 
 
-# NEXT STEP?
-For further ideas, we have organized a more systematic introduction. Please refer to the following link.
-
-  [NEXT STEP](https://github.com/Red0tt/Smoothblow-device-for-PET/blob/main/README.md)
-
-
+# The current version
 ## Work Flow
 1. Adjust the Z-axis extension rod of the machine to match the height of the bottle.
 
