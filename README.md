@@ -1,7 +1,11 @@
 # Smoothblow-device-for-PET
-Project description: We imagine a device for smoothing PET bottles, therefore it can be used for 3d print filament.
+## Project description: 
+We imagine a device for smoothing PET bottles, therefore it can be used for 3d print filament.
+Before we organized this concept, there were some initial attempts that introduced how this concept came to life. If you would like to read more, you can click the link below.
 
-Work Flow:
+[前期尝试 Preliminary attempts](https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK-5-8_DEEPSICK/README.md)
+
+## Work Flow:
 1. Adjust the Z-axis extension rod of the machine to match the height of the bottle.
 
 2. Remove the bottle cap, then use a silicone stopper of the appropriate size (with an air nozzle installed on top), and place the bottle into the machine, aligning it with the air inlet. Pull down the lever to connect the air inlet of the machine with the nozzle, then inject air into the bottle.
