@@ -118,7 +118,21 @@ Heating tube (小太阳), rubber stopper, air nozzle, and a homemade machine mad
 
 ## What we learned
 
+<p align="center">
+<img src="photo/第二次制作模型1.jpg" alt="ppt" width="500"/>
+</p>
 
+<p align="center">
+<img src="photo/第二次制作模型2.jpg" alt="ppt" width="500"/>
+</p>
+
+<p align="center">
+<img src="photo/第二次的模型1.jpg" alt="ppt" width="500"/>
+</p>
+
+<p align="center">
+<img src="photo/第二次的模型2.jpg" alt="ppt" width="500"/>
+</p>
 
 # Our idea in MakerFaire 2025
 
