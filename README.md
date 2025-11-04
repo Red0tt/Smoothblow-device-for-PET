@@ -1,11 +1,11 @@
 # Smoothblow-device-for-PET
-## Project description: 
+## Project description
 We imagine a device for smoothing PET bottles, therefore it can be used for 3d print filament.
 Before we organized this concept, there were some initial attempts that introduced how this concept came to life. If you would like to read more, you can click the link below.
 
 [前期尝试 Preliminary attempts](https://github.com/Red0tt/How-To-Make-Anything-/blob/main/WEEK-5-8_DEEPSICK/README.md)
 
-## Work Flow:
+## Work Flow
 1. Adjust the Z-axis extension rod of the machine to match the height of the bottle.
 
 2. Remove the bottle cap, then use a silicone stopper of the appropriate size (with an air nozzle installed on top), and place the bottle into the machine, aligning it with the air inlet. Pull down the lever to connect the air inlet of the machine with the nozzle, then inject air into the bottle.
@@ -17,7 +17,7 @@ Before we organized this concept, there were some initial attempts that introduc
 
 <img width="4959" height="7016" alt="制造万物 海报" src="https://github.com/user-attachments/assets/41abbc06-00d9-40d5-833e-4a228cb003f5" />
 
-MakerFaire
+# MakerFaire
 
 At MakerFaire, we showcased our design posters and models to the public and engaged in discussions with some visitors. During these interactions, we repeatedly explained the entire design process, which helped us gain a deeper understanding of our own workflow. At the same time, through visitors’ questions and feedback, we identified some potential issues—for example, whether the model is suitable for various sizes of plastic bottles, and how to more clearly indicate that the design accommodates most bottle sizes. Many visitors were initially unfamiliar with the process of recycling PET plastic bottles for 3D printing. After we introduced the process to them, many expressed that it is a very environmentally friendly technology and even asked whether it would be implemented on a larger scale in the future. This suggests that the process has great potential for development.
 
