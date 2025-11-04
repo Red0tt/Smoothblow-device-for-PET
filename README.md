@@ -140,6 +140,10 @@ At MakerFaire, we showcased our design posters and models to the public and enga
 
 我们在MakerFaire中向公众展示了我们的设计海报与设计模型，并且与一些参观者进行交流。在与他们交流的过程中，我们不断重复整个设计过程，这使得我们更深刻的理解了自己的设计流程。同时，在与参观者的交流提问中，我们挖掘到了一些可能存在的问题，比如这个模型的设计是否适用于各种尺寸的塑料瓶，能否更加明确的方式表示这个设计是适配大多数瓶子的尺寸的。很多参观者在事先是并不了解pet塑料瓶回收而被重新3D打印这个流程的，我们向他们介绍，很多参观者表示这是十分环保的一个技术，还询问我们之后是否会落地，由此看来这个流程是很有发展前景的。
 
+We were very pleased that, after listening to our presentation, many visitors gained a certain understanding of the entire PET bottle recycling process. Some visitors also praised our poster, which gave us a great deal of confidence.
+
+令我们很开心的是，很多参观者在听我们介绍之后，对于整个pet塑料瓶回收流程有了一定的了解。还有参观者对我们的海报表示称赞，这一点也给了我们很大的信心。
+
 <p align="center">
 <img src="photo/makerfaire现场1.jpg" alt="ppt" width="500"/>
 </p>
