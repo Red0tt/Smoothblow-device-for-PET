@@ -120,10 +120,12 @@ We also made a poster for our design.
 ## Key Materials
 Heating tube (小太阳), rubber stopper, air nozzle, and a homemade machine made of materials with certain hardness
 <p align="center">
-<img width="504" height="519" alt="material" src="https://github.com/user-attachments/assets/4fdd653e-7ff0-41b4-a67c-0f58dc469d9a" />
+<img width="50%" alt="material" src="https://github.com/user-attachments/assets/4fdd653e-7ff0-41b4-a67c-0f58dc469d9a" />
 </p>
 
 ## What we learned
+
+Better collaboration within the team, brainstorming solutions for new problems, having a certain grasp of blow molding processes, and some understanding of PET recycling for 3D printing. With more hands-on experience...
 
 <p align="center">
 <img src="photo/第二次制作模型1.jpg" alt="ppt" width="500"/>
@@ -168,3 +170,18 @@ We were very pleased that, after listening to our presentation, many visitors ga
 </p>
 
 # Next step 
+基于现有设计方案，后续将聚焦以下核心优化与拓展方向：
+
+1. 推进各部件适配性材料替换与验证，通过针对性测试确保新材料的性能匹配度与应用可靠性；
+
+2. 开展橡胶塞相关调研，重点分析不同纹路设计与材质特性对摩擦力参数的影响，形成数据支撑；
+
+3. 寻找切割塑料瓶机领域的合作伙伴，联合进行技术开发与设计迭代，实现本装置与切割设备的高效协同适配。
+
+Based on the existing design scheme, the following core optimization and expansion directions will be focused on in the future:
+
+1. Promote the replacement and verification of suitable materials for each component, and ensure the performance matching and application reliability of new materials through targeted tests;
+
+2. Conduct research on rubber stoppers, focusing on analyzing the impact of different texture designs and material properties on friction parameters to form data support;
+
+3. Seek partners in the field of plastic bottle cutting machines, carry out joint technological development and design iteration, and achieve efficient collaborative adaptation between this device and cutting equipment.
