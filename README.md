@@ -13,6 +13,13 @@ Our team has selected the blow molding process as the subject of our study. We b
 
 [制造万物1021.pdf](https://github.com/user-attachments/files/23148710/1021.pdf)
 
+<p align="center">
+<img src="photo/figma讨论1.png" alt="ppt" width="500"/>
+</p>
+
+<p align="center">
+<img src="photo/figma讨论2.png" alt="ppt" width="500"/>
+</p>
 
 ### IMAGINE A NEW WAY
 Later, the professor asked us to assume that this process is carried out in a Fablab, focusing on low-tech, small-scale modifications. At the beginning, we considered alternative solutions for every step of the blow molding process, such as using gel instead of PET, or a hairdryer instead of high-pressure air. The picture shows our detailed divergent thinking. 
