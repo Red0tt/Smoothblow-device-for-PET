@@ -132,6 +132,9 @@ After discussing with classmates and the teacher in class, we adopted the teache
 <p align="center">
 <img width="50%" alt="制造万物 海报" src="https://github.com/user-attachments/assets/41abbc06-00d9-40d5-833e-4a228cb003f5" />
 </p>
+<p align="center">
+poster
+</p>
 
 ## Key Materials
 Heating tube (小太阳), rubber stopper, air nozzle, and a homemade machine made of materials with certain hardness
@@ -163,6 +166,9 @@ Better collaboration within the team, brainstorming solutions for new problems, 
 <p align="center">
 <img src="photo/第二次的模型2.jpg" alt="ppt" width="500"/>
 </p>
+<p align="center">
+prototype
+</p>
 
 # Our idea in MakerFaire 2025
 
@@ -188,6 +194,9 @@ We were very pleased that, after listening to our presentation, many visitors ga
 
 <p align="center">
 <img src="photo/makerfaire现场4.jpg" alt="ppt" width="500"/>
+</p>
+<p align="center">
+Photos from MakerFaire
 </p>
 
 # Next step 
