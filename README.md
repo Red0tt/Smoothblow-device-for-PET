@@ -74,6 +74,14 @@ We built it according to the concept diagram. Initially, we planned to make a ro
 我们按照概念图进行了模型制作。最初，我们计划做一个底座尺寸为 A3 的粗略装置模型，但这样一来，用来支撑的纸杯无法承受较长的杆件，因此我们改用了较短的管子，模型也相应缩小。我们用吸管制作横梁，将其分为两段，并找到一个瓶颈尖的塑料瓶，用来模拟气嘴与横梁的连接。后端的吸盘我们用瓶盖来示意。横梁通过铁丝固定在支柱上，同时保证其可以旋转，在制作过程中，我们还使用了扎带等辅助工具。最后，我们找了一块形状相似的亚克力板来代表电磁炉，放在支柱底座之间。然而，我们觉得这样电磁炉离瓶子太远，无法有效加热，于是将亚克力板放在底座上（尽管如此，其尺寸仍与我们最初设想有所偏差）。
 
 <p align="center">
+<img src="photo/第一次制作模型3.jpg" alt="ppt" width="500"/>
+</p>
+
+<p align="center">
+<img src="photo/第一次制作模型4.jpg" alt="ppt" width="500"/>
+</p>
+
+<p align="center">
 <img width="50%" alt="1" src="https://github.com/user-attachments/assets/755da419-f3e9-447a-b6f3-bc3f47aa1087"/>
 </p>
 
