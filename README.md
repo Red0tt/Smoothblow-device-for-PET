@@ -82,20 +82,7 @@ We built it according to the concept diagram. Initially, we planned to make a ro
 </p>
 
 <p align="center">
-<img width="50%" alt="1" src="https://github.com/user-attachments/assets/755da419-f3e9-447a-b6f3-bc3f47aa1087"/>
-</p>
-
-<p align="center">
-<img width="50%" alt="2" src="https://github.com/user-attachments/assets/e38f8e00-38bf-4303-a32c-01432aa482fe"/>
-</p>
-
-
-<p align="center">
 <img width="50%" alt="5" src="https://github.com/user-attachments/assets/a5f4cf9a-e027-45a2-9578-10318a9db647"/>
-</p>
-
-<p align="center">
-<img width="50%" alt="3" src="https://github.com/user-attachments/assets/04f5acdd-e5f6-4fab-9480-e3e58a77cce8"/>
 </p>
 
 <p align="center">
