@@ -105,6 +105,13 @@ We also made a poster for our design.
 
 
 # The current version
+
+## The process of solution iteration
+
+After discussing with classmates and the teacher in class, we adopted the teacher’s suggestion to change the original horizontal structure to a vertical one, and carefully discussed how each part should be assembled. The point we debated the most was how to fix the bottle to the inflation and rotation device. At first, we wondered if a “universal bottle cap” could be made to fit all bottles, but it was obviously impossible. Then we considered punching a hole in the bottle cap and inserting the inflation and rotation “needle” directly into the bottle to fix it. After discussion, we concluded that this approach would likely loosen during use and cause air leakage. After considering countless possibilities, we finally agreed that designing a “bottle stopper” that is larger at the top and smaller at the bottom was the most suitable choice. From the initial concept to sketches and the final detailed design, we arrived at what we considered the most appropriate finished product.
+
+在课上与同学、老师交流过后我们采纳了老师的建议，将原本横向的结构变为竖向，并且在每一个部分具体如何组装上进行了仔细的讨论。我们讨论最多的一个点是如何将瓶子与充气、旋转仪器固定在一起。一开始我们想能否有一个“万能瓶盖”，能适应所有瓶子，但很显然这是不可能的。其次我们又开始想，能否在瓶盖上打孔，直接将充气、旋转的“针”打入内部来固定。经过我们的讨论，认为这很可能会在使用过程中松动，导致漏气。经过我们设想无数可能，最后一致讨论认为设计一个上大下小的“瓶塞”是最合适的选择。从初步设想到草图到最终深化设计方案，最终给出了我们所认为最合适的成品。
+
 ## Work Flow
 1. Adjust the Z-axis extension rod of the machine to match the height of the bottle.
 
