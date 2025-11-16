@@ -1,9 +1,6 @@
 # Smoothblow-device-for-PET
 ## Project description
 We imagine a device for smoothing PET bottles, therefore it can be used for 3d print filament.
-Before we organized this concept, there were some initial attempts that introduced how this concept came to life. If you would like to read more, you can click the link below.
-
-
 
 ## Preliminary attempts
 
@@ -20,6 +17,9 @@ Our team has selected the blow molding process as the subject of our study. We b
 
 <p align="center">
 <img src="photo/figma讨论2.png" alt="ppt" width="600"/>
+</p>
+<p align="center">
+Discussion process
 </p>
 
 ### IMAGINE A NEW WAY
@@ -94,6 +94,10 @@ We built it according to the concept diagram. Initially, we planned to make a ro
 <img width="50%" alt="4" src="https://github.com/user-attachments/assets/5e799a8f-611e-45fe-a851-15e49e5999e4"/>
 </p>
 
+<p align="center">
+Making process
+</p>
+
 
 We also made a poster for our design.
 
@@ -133,7 +137,7 @@ After discussing with classmates and the teacher in class, we adopted the teache
 <img width="50%" alt="制造万物 海报" src="https://github.com/user-attachments/assets/41abbc06-00d9-40d5-833e-4a228cb003f5" />
 </p>
 <p align="center">
-poster
+Poster
 </p>
 
 ## Key Materials
@@ -143,6 +147,9 @@ Heating tube (小太阳), rubber stopper, air nozzle, and a homemade machine mad
 
 <p align="center">
 <img width="50%" alt="material" src="https://github.com/user-attachments/assets/4fdd653e-7ff0-41b4-a67c-0f58dc469d9a" />
+</p>
+<p align="center">
+Design details
 </p>
 
 ## What we learned
@@ -167,7 +174,7 @@ Better collaboration within the team, brainstorming solutions for new problems, 
 <img src="photo/第二次的模型2.jpg" alt="ppt" width="500"/>
 </p>
 <p align="center">
-prototype
+Prototype
 </p>
 
 # Our idea in MakerFaire 2025
