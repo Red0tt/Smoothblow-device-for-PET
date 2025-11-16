@@ -2,6 +2,8 @@
 ## Project description
 We imagine a device for smoothing PET bottles, therefore it can be used for 3d print filament.
 
+我们设想了一种用于将 PET 瓶压平/整形的装置，从而使其能够被用于制作 3D 打印耗材。
+
 ## Preliminary attempts
 
 ### Make a research (blow molding)
@@ -140,6 +142,11 @@ Heating tube (小太阳), rubber stopper, air nozzle, and a homemade machine mad
 
 加热管（小太阳）、橡胶塞、气嘴，以及由具有一定硬度的材料自制的机器
 
+## Model-making process
+During the second round of model making, we again chose readily available discarded materials such as cardboard boxes and plastic bottles. By punching holes in the cardboard and inserting wooden sticks, we roughly recreated our design concept and formed our design prototype.
+
+在第二次模型制作过程中，我们还是选择了纸箱、塑料瓶等随手可以拿到的废旧物品。我们通过在纸箱上打孔，插入木棍等手法，大致还原了我们的设计想法，形成了我们的设计原型。
+
 <p align="center">
 <img width="50%" alt="material" src="https://github.com/user-attachments/assets/4fdd653e-7ff0-41b4-a67c-0f58dc469d9a" />
 </p>
@@ -147,15 +154,6 @@ Heating tube (小太阳), rubber stopper, air nozzle, and a homemade machine mad
 Design details
 </p>
 
-## What we learned
-
-Better collaboration within the team, brainstorming solutions for new problems, having a certain grasp of blow molding processes, and some understanding of PET recycling for 3D printing.As we gained more theoretical knowledge, we became increasingly eager to understand the practical operations involved. Therefore, we began making a prototype. During the hands-on process—choosing materials, determining dimensions—we also gained a great deal of practical knowledge. At the same time, this served as a further exploration of our solution, giving us a deeper understanding of the PET plastic recycling process and allowing us to reflect more thoroughly on the entire design process.
-
-团队内的协作更加顺畅，能够就新问题进行头脑风暴， 对吹塑工艺有了一定的掌握，并对用于 3D 打印的 PET 回收有了一些了解。随着了解了更多理论性的知识，我们会更加想知道在实践方面的具体操作。于是我们动手制作模型，在动手的过程中，我们选择材质、思考大小，使得我们也收获了很多实践知识。同时，这也是对于我们方案的一个再探讨，让我们对于PET塑料再利用的流程更加了解，让我们能更加深刻地反思整个设计流程。
-
-I think an important part of the entire process is that we further learned what it means to design, and how designers differ from engineers. We learned how to more accurately define needs based on the information we gathered, before beginning to solve the problem.
-
-我觉得很重要的一点是在整个流程中，我们进一步学到了如何“设计”，设计师与工程师不同的地方是什么。我们学到了该如何在收集到的调查信息基础上，更准确地定义需求，再开始入手解决问题。
 
 <p align="center">
 <img src="photo/第二次制作模型1.jpg" alt="ppt" width="500"/>
@@ -222,3 +220,15 @@ Based on the existing design scheme, the following core optimization and expansi
 3. Seek partners in the field of plastic bottle cutting machines, carry out joint technological development and design iteration, and achieve efficient collaborative adaptation between this device and cutting equipment.
 
 3. 寻找切割塑料瓶机领域的合作伙伴，联合进行技术开发与设计迭代，实现本装置与切割设备的高效协同适配。
+
+
+
+## What we learned
+
+Better collaboration within the team, brainstorming solutions for new problems, having a certain grasp of blow molding processes, and some understanding of PET recycling for 3D printing.As we gained more theoretical knowledge, we became increasingly eager to understand the practical operations involved. Therefore, we began making a prototype. During the hands-on process—choosing materials, determining dimensions—we also gained a great deal of practical knowledge. At the same time, this served as a further exploration of our solution, giving us a deeper understanding of the PET plastic recycling process and allowing us to reflect more thoroughly on the entire design process.
+
+团队内的协作更加顺畅，能够就新问题进行头脑风暴， 对吹塑工艺有了一定的掌握，并对用于 3D 打印的 PET 回收有了一些了解。随着了解了更多理论性的知识，我们会更加想知道在实践方面的具体操作。于是我们动手制作模型，在动手的过程中，我们选择材质、思考大小，使得我们也收获了很多实践知识。同时，这也是对于我们方案的一个再探讨，让我们对于PET塑料再利用的流程更加了解，让我们能更加深刻地反思整个设计流程。
+
+I think an important part of the entire process is that we further learned what it means to design, and how designers differ from engineers. We learned how to more accurately define needs based on the information we gathered, before beginning to solve the problem.
+
+我觉得很重要的一点是在整个流程中，我们进一步学到了如何“设计”，设计师与工程师不同的地方是什么。我们学到了该如何在收集到的调查信息基础上，更准确地定义需求，再开始入手解决问题。
