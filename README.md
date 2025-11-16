@@ -142,17 +142,18 @@ Heating tube (小太阳), rubber stopper, air nozzle, and a homemade machine mad
 
 加热管（小太阳）、橡胶塞、气嘴，以及由具有一定硬度的材料自制的机器
 
-## Model-making process
-During the second round of model making, we again chose readily available discarded materials such as cardboard boxes and plastic bottles. By punching holes in the cardboard and inserting wooden sticks, we roughly recreated our design concept and formed our design prototype.
-
-在第二次模型制作过程中，我们还是选择了纸箱、塑料瓶等随手可以拿到的废旧物品。我们通过在纸箱上打孔，插入木棍等手法，大致还原了我们的设计想法，形成了我们的设计原型。
-
 <p align="center">
 <img width="50%" alt="material" src="https://github.com/user-attachments/assets/4fdd653e-7ff0-41b4-a67c-0f58dc469d9a" />
 </p>
 <p align="center">
 Design details
 </p>
+
+
+## Model-making process
+During the second round of model making, we again chose readily available discarded materials such as cardboard boxes and plastic bottles. By punching holes in the cardboard and inserting wooden sticks, we roughly recreated our design concept and formed our design prototype.
+
+在第二次模型制作过程中，我们还是选择了纸箱、塑料瓶等随手可以拿到的废旧物品。我们通过在纸箱上打孔，插入木棍等手法，大致还原了我们的设计想法，形成了我们的设计原型。
 
 
 <p align="center">
