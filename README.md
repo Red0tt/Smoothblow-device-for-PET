@@ -108,11 +108,19 @@ We also made a poster for our design.
 ## Work Flow
 1. Adjust the Z-axis extension rod of the machine to match the height of the bottle.
 
+调整机器的 Z 轴延长杆，使其与瓶子的高度相匹配。
+
 2. Remove the bottle cap, then use a silicone stopper of the appropriate size (with an air nozzle installed on top), and place the bottle into the machine, aligning it with the air inlet. Pull down the lever to connect the air inlet of the machine with the nozzle, then inject air into the bottle.
+
+取下瓶盖，选择合适尺寸并带有气嘴的硅胶塞，将其安装在瓶口上。将瓶子放入机器中，对准进气口，向下压杆使机器的进气口与气嘴连接，然后向瓶子内充气。
 
 3. Lift the lever to suspend the bottle, press the button to start the heating tube, and simultaneously rotate the bottle quickly to ensure even heating.
 
+提起压杆使瓶子悬空，按下按钮启动加热管，同时快速旋转瓶子，以确保均匀受热。
+
 4. Once the surface of the bottle becomes smooth, press the stop button to remove the bottle.
+
+当瓶子表面变得平整光滑后，按下停止按钮并取出瓶子。
 
 <p align="center">
 <img width="50%" alt="制造万物 海报" src="https://github.com/user-attachments/assets/41abbc06-00d9-40d5-833e-4a228cb003f5" />
@@ -120,6 +128,9 @@ We also made a poster for our design.
 
 ## Key Materials
 Heating tube (小太阳), rubber stopper, air nozzle, and a homemade machine made of materials with certain hardness
+
+加热管（小太阳）、橡胶塞、气嘴，以及由具有一定硬度的材料自制的机器
+
 <p align="center">
 <img width="50%" alt="material" src="https://github.com/user-attachments/assets/4fdd653e-7ff0-41b4-a67c-0f58dc469d9a" />
 </p>
@@ -127,6 +138,8 @@ Heating tube (小太阳), rubber stopper, air nozzle, and a homemade machine mad
 ## What we learned
 
 Better collaboration within the team, brainstorming solutions for new problems, having a certain grasp of blow molding processes, and some understanding of PET recycling for 3D printing. With more hands-on experience...
+
+团队内的协作更加顺畅，能够就新问题进行头脑风暴， 对吹塑工艺有了一定的掌握，并对用于 3D 打印的 PET 回收有了一些了解。随着更多的实际操作经验……
 
 <p align="center">
 <img src="photo/第二次制作模型1.jpg" alt="ppt" width="500"/>
@@ -171,18 +184,19 @@ We were very pleased that, after listening to our presentation, many visitors ga
 </p>
 
 # Next step 
-基于现有设计方案，后续将聚焦以下核心优化与拓展方向：
-
-1. 推进各部件适配性材料替换与验证，通过针对性测试确保新材料的性能匹配度与应用可靠性；
-
-2. 开展橡胶塞相关调研，重点分析不同纹路设计与材质特性对摩擦力参数的影响，形成数据支撑；
-
-3. 寻找切割塑料瓶机领域的合作伙伴，联合进行技术开发与设计迭代，实现本装置与切割设备的高效协同适配。
 
 Based on the existing design scheme, the following core optimization and expansion directions will be focused on in the future:
 
+基于现有设计方案，后续将聚焦以下核心优化与拓展方向：
+
 1. Promote the replacement and verification of suitable materials for each component, and ensure the performance matching and application reliability of new materials through targeted tests;
+
+1. 推进各部件适配性材料替换与验证，通过针对性测试确保新材料的性能匹配度与应用可靠性；
 
 2. Conduct research on rubber stoppers, focusing on analyzing the impact of different texture designs and material properties on friction parameters to form data support;
 
+2. 开展橡胶塞相关调研，重点分析不同纹路设计与材质特性对摩擦力参数的影响，形成数据支撑；
+
 3. Seek partners in the field of plastic bottle cutting machines, carry out joint technological development and design iteration, and achieve efficient collaborative adaptation between this device and cutting equipment.
+
+3. 寻找切割塑料瓶机领域的合作伙伴，联合进行技术开发与设计迭代，实现本装置与切割设备的高效协同适配。
